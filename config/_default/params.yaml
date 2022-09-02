@@ -109,3 +109,4 @@ extensions:
   icon.pack:
     fab: true
     ai: true
+    fa-brands: true
