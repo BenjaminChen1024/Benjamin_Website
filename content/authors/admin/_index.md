@@ -8,13 +8,14 @@ superuser: true
 # Role/position/tagline
 role:  Senior of Electrical Engineering
 
+
 # Organizations/Affiliations to show in About widget
 organizations:
  - name: South China University of Technology
    url: https://www.scut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Power Electronics, Circuit Design, Embedded Systems, and Robot Control.
 
 # Interests to show in About widget
 interests:
@@ -69,6 +70,8 @@ email: "201930130250@mail.scut.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+
 ---
 
 I am a four-year undergraduate from {{< staticref "http://www2.scut.edu.cn/ep/" "newtab" >}}School of Electric Power{{< /staticref >}}, South China University of Technology. Recently, I worked in the AI Future Innovation Laboratory under the guidance of {{< staticref "https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=hDk0IeQJe8Vd!P0MkuXKhg==" "newtab" >}}Prof. He Cai{{< /staticref >}} to carry out the biomimetic mechanical fish project based on fish swarm algorithm. In addition, I am a member of {{< staticref "https://www.weibo.com/n/%E5%8D%8E%E5%B7%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4?tabtype=home" "newtab" >}}SCUT RobotLab Electric Control Group{{< /staticref >}} and have participated in RoboMaster, Huawei Embedded Software Competition and other competitions. My research interests include Power Electronics, Circuit Design, Embedded Systems, and Robot Control.

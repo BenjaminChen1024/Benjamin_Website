@@ -3,6 +3,7 @@ title: AR EDU
 summary: An immersive online teaching platform based on AR devices.
 tags:
 - Metaverse
+- AR
 date: "2022-07-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: "**Contact**"
 subtitle:
 
 content:
@@ -27,17 +27,17 @@ content:
   # Contact details (edit or remove options as required)
   email: 201930130250@mail.scut.edu.cn
   # phone: 198 6020 5683
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Guang Zhou
-  #   region: Guang Dong
-  #   postcode: '510641'
-  #   country: China
-  #   country_code: CN
+  address:
+    street: Wushan Street, Tianhe District
+    city: Guang Zhou
+    region: Guang Dong
+    postcode: '510641'
+    country: China
+    country_code: CN
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
-  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: South China University of Technology
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
