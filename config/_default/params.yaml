@@ -107,4 +107,5 @@ extensions:
   academicons:
     enable: true
   icon.pack:
+    fab: true
     ai: true
