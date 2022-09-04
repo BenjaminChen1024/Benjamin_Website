@@ -33,6 +33,8 @@ slides: example
 
 I am a member of engineering embedded software in the 21st season of Scut Robot Lab, responsible for engineering robot hardware deployment and embedded software research and development.
 
+👉 Github: https://github.com/BenjaminChen1024/21_Engineer_Top
+
 ## Engineer Robot
 
 Engineer robot is responsible for competing for its own resources and resurrecting its own robot, which consists of two parts: mobile chassis and upper mechanism. The mobile chassis includes the McNamham wheel, the rescue mechanism and the card swiping mechanism which can move in all directions. The upper mechanism includes lifting mechanism, extending mechanism, flipping mechanism and clamping mechanism.
@@ -64,7 +66,7 @@ Engineer robot control is divided into action group and automatic group. The act
 
 In order to make the movement of the robot more stable and prevent various accidents in the competition, we need to debug the robot again and again, and record its test parameters such as: clamping success rate, exchange success rate, chassis moving speed, etc.
 
-{{< video src="debug.mp4" >}}
+{{< video src="debug.mp4" controls="yes" >}}
 
 ## Competition
 
