@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Robot
+    tag: Robot
   - name: Metaverse
     tag: Metaverse
   - name: Other
