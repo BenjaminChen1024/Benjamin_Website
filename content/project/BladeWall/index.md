@@ -3,6 +3,7 @@ title: Blade Wall
 summary: Somatosensory multi - motor array synchronous control system.
 tags:
 - Kinect
+- Other
 date: "2022-09-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
