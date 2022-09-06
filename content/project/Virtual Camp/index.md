@@ -4,7 +4,7 @@ summary: Underwater bionic robotic fish based on vision for dynamic target track
 tags:
 - Metaverse
 - VR
-date: "2022-09-06T00:00:00Z"
+date: "2022-08-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

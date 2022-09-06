@@ -4,7 +4,7 @@ summary: Somatosensory multi - motor array synchronous control system.
 tags:
 - Other
 - Kinect
-date: "2022-09-05T00:00:00Z"
+date: "2022-03-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

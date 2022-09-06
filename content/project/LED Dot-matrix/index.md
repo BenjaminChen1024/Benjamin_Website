@@ -4,7 +4,7 @@ summary: Firmware and APP software system development based on LED Dot-matrix.
 tags:
 - Electron
 - LED
-date: "2022-09-05T00:00:00Z"
+date: "2021-10-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

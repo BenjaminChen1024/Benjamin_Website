@@ -4,7 +4,7 @@ summary: Underwater bionic robotic fish based on vision for dynamic target track
 tags:
 - Robot
 - Bionic
-date: "2022-09-06T00:00:00Z"
+date: "2022-04-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
