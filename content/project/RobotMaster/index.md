@@ -1,6 +1,6 @@
 ---
 title: Robomaster - Engineer Robot
-summary: RoboMaster University Series (RMU), initiated by DJI, is a robot competition and academic exchange platform designed for global science and technology lovers.
+summary: RoboMaster University Series (RMU), initiated by DJI.
 tags:
 - Robot
 - Robomaster
