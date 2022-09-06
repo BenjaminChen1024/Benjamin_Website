@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Robot
     tag: Robot
+  - name: Electron
+    tag: Electron
   - name: Metaverse
     tag: Metaverse
   - name: Other
