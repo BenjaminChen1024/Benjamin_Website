@@ -3,7 +3,7 @@ title: Trunk Robot
 summary: Biomimetic elephant trunk robot based on wire pulling technology.
 tags:
 - Robot
-date: "2022-09-04T00:00:00Z"
+date: "2022-05-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

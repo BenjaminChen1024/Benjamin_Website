@@ -4,7 +4,7 @@ summary: RoboMaster University Series (RMU), initiated by DJI.
 tags:
 - Robot
 - Robomaster
-date: "2022-09-04T00:00:00Z"
+date: "2021-09-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -47,6 +47,17 @@ Engineer robot hardware uses STM32F405 chip as the controller. Robomaster M3508 
 
 {{< figure src = "hardware.png" caption = "Engineer Robot Hardware" numbered = "true" >}}
 
+## **PCB Development**
+
+Engineer robot PCB has Chassis and Topper, which are responsible for controlling Chassis and Topper hardware devices respectively.
+
+Chassis PCB consists of STM32F405 chip, IMU chip, CAN communication module, serial port communication module, IIC communication module, and DBUS communication module.
+
+{{< figure src = "Chassis.jpg" caption = "Engineer Robot Chassis PCB" numbered = "true" >}}
+
+Topper PCB is composed of STM32F405 chip, CAN communication module, serial communication module, IIC communication module, free IO port, overcurrent protection module and relay module.
+
+{{< figure src = "Topper.jpg" caption = "Engineer Robot Topper PCB" numbered = "true" >}}
 
 ## **Softwork**
 
